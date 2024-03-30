@@ -1,5 +1,5 @@
 import asyncio
-from storage import StoreUserAPI
+from storage.api import StoreUserAPI
 import bittensor as bt
 
 async def main():
